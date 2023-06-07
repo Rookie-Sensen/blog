@@ -1,6 +1,6 @@
 ---
-title：CMake
-date: 2023-06-05 12:00:00
+title: Cmake学习笔记
+date: 2023-06-07 17:39:55
 tags: CMake
 ---
 
